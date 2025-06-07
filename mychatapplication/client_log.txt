@@ -1,0 +1,58 @@
+[2025-06-06 12:05:41] [WARNING] Server not available. Retrying to connect...
+[2025-06-06 12:08:14] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:08:21] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 12:09:05] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:12:08] [WARNING] Server disconnected.
+[2025-06-06 12:12:08] [INFO] Attempting to reconnect to server in 2 seconds...
+[2025-06-06 12:12:11] [WARNING] Server not available. Retrying to connect...
+[2025-06-06 12:21:55] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:22:20] [TRANSACTION] User typed message: hi
+[2025-06-06 12:22:20] [TRANSACTION] Message sent to server: hi
+[2025-06-06 12:22:20] [TRANSACTION] Received message from server: Hello! How can I assist you today?
+[2025-06-06 12:30:31] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 12:30:31] [INFO] Client closed via window event. Connection shut down cleanly.
+[2025-06-06 12:33:04] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:33:19] [TRANSACTION] User typed message: exit
+[2025-06-06 12:33:19] [INFO] User exited the chat.
+[2025-06-06 12:33:19] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 12:33:20] [INFO] Client resources cleaned up successfully.
+[2025-06-06 12:36:00] [TRANSACTION] User typed message: hi
+[2025-06-06 12:36:00] [ERROR] Failed to send message — no server connection.
+[2025-06-06 12:36:06] [INFO]  Connection shut down cleanly.
+[2025-06-06 12:38:05] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:38:14] [WARNING] Server disconnected.
+[2025-06-06 12:38:14] [INFO] Attempting to reconnect to server in 2 seconds...
+[2025-06-06 12:38:17] [WARNING] Server not available. Retrying to connect...
+[2025-06-06 12:38:26] [INFO] Reconnected to server at 127.0.0.1:1234
+[2025-06-06 12:41:10] [TRANSACTION] you: hi
+[2025-06-06 12:41:10] [TRANSACTION] Message sent to server: hi
+[2025-06-06 12:41:10] [TRANSACTION] Received message from server: Hello! How can I assist you today?
+[2025-06-06 12:42:54] [TRANSACTION] you: exit
+[2025-06-06 12:42:54] [INFO] User exited the chat.
+[2025-06-06 12:42:54] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 12:42:55] [INFO] Client resources cleaned up successfully.
+[2025-06-06 12:51:44] [INFO]  Connection shut down cleanly.
+[2025-06-06 12:52:02] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:52:08] [TRANSACTION] you: hi
+[2025-06-06 12:52:08] [TRANSACTION] Message sent to server: hi
+[2025-06-06 12:52:08] [TRANSACTION] Received message from server: Hello! How can I assist you today?
+[2025-06-06 12:52:22] [WARNING] Server disconnected.
+[2025-06-06 12:52:22] [INFO] Attempting to reconnect to server in 2 seconds...
+[2025-06-06 12:52:24] [INFO]  Connection shut down cleanly.
+[2025-06-06 12:53:38] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 12:53:41] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 12:57:17] [TRANSACTION] User typed message: hi
+[2025-06-06 12:57:17] [TRANSACTION] Message sent to server: hi
+[System][INFO] 2025-06-06 13:03:10 - Connected to server at 127.0.0.1:1234
+[System][TRANSACTION] 2025-06-06 13:03:45 - User typed message: hi
+[System][TRANSACTION] 2025-06-06 13:03:45 - Message sent to server: hi
+[System][TRANSACTION] 2025-06-06 13:03:45 - Received message from server: Hello! How can I assist you today?
+[System][TRANSACTION] 2025-06-06 13:04:06 - Received message from server: [Error] Connection closed.
+[2025-06-06 13:52:04] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 13:52:07] [TRANSACTION] Received message from server: [Error] Connection closed.
+[2025-06-06 13:59:41] [INFO] Connected to server at 127.0.0.1:1234
+[2025-06-06 13:59:55] [TRANSACTION] User typed message: hi
+[2025-06-06 13:59:55] [TRANSACTION] Message sent to server: hi
+[2025-06-06 13:59:55] [TRANSACTION] Received message from server: Hello! How can I assist you today?
+[2025-06-06 14:00:04] [WARNING] Server disconnected.
+[2025-06-06 14:00:04] [INFO] Attempting to reconnect to server in 2 seconds...

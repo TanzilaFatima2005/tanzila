@@ -1,0 +1,208 @@
+2025-06-06T00:10:46.873719100 - Error in server: Address already in use: bind
+2025-06-06T00:10:55.799764700 - Server started on 127.0.0.1:1234
+2025-06-06T00:11:00.687623400 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T00:11:12.335816600 - Error in server: Socket closed
+2025-06-06T00:11:19.256279200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T00:19:55.963661300 - Server started on 127.0.0.1:1234
+2025-06-06T00:20:02.804059400 - Error in server: Socket closed
+2025-06-06T00:21:56.595874400 - Server started on 127.0.0.1:1234
+2025-06-06T00:22:03.945676200 - Error in server: Socket closed
+2025-06-06T00:34:44.100255400 - Server started on 127.0.0.1:1234
+2025-06-06T00:34:49.158247700 - Error in server: Socket closed
+2025-06-06T00:53:14.171556500 - Server started on 127.0.0.1:1234
+2025-06-06T00:53:19.770976400 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:18:12.719016 - Client connected: 127.0.0.1 | Active Clients: 2
+2025-06-06T01:18:23.050170100 - Error in server: Socket closed
+[Fri Jun 06 01:25:12 PDT 2025] Error in server: Address already in use: bind
+[Fri Jun 06 01:25:33 PDT 2025] Server started on 127.0.0.1:1234
+[Fri Jun 06 01:25:37 PDT 2025] Client connected: 127.0.0.1 | Active Clients: 1
+[Fri Jun 06 01:26:07 PDT 2025] Error in server: Address already in use: bind
+2025-06-06T01:28:55.710200700 - Error in server: Address already in use: bind
+[Fri Jun 06 01:29:00 PDT 2025] Error in server: Socket closed
+[Fri Jun 06 01:29:00 PDT 2025] Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T01:29:23.978512500 - Server started on 127.0.0.1:1234
+2025-06-06T01:29:32.687387100 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:29:46.609374600 - Error in server: Socket closed
+2025-06-06T01:30:35.498963800 - Server started on 127.0.0.1:1234
+2025-06-06T01:30:39.365015900 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:31:06.299274700 - Error in server: Socket closed
+2025-06-06T01:31:51.518966200 - Server started on 127.0.0.1:1234
+2025-06-06T01:31:52.415673900 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:32:04.721386100 - Error in server: Socket closed
+2025-06-06T01:43:40.852842400 - Server started on 127.0.0.1:1234
+2025-06-06T01:43:42.024767100 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:43:45.243307500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T01:44:11.288864800 - Server started on 127.0.0.1:1234
+2025-06-06T01:44:14.857682 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:45:26.532254200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T01:55:32.712304400 - Server started on 127.0.0.1:1234
+2025-06-06T01:55:37.571139800 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T01:55:52.083594400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:05:52.075167100 - Server started on 127.0.0.1:1234
+2025-06-06T04:05:52.197263700 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:06:38.273585100 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:16:57.234170100 - Server started on 127.0.0.1:1234
+2025-06-06T04:16:57.378283300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:17:11.955775 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:20:42.843016300 - Server started on 127.0.0.1:1234
+2025-06-06T04:20:47.477670100 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:20:56.435731300 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:25:40.357544600 - Server started on 127.0.0.1:1234
+2025-06-06T04:25:42.222015700 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:26:02.420938 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:29:05.286088900 - Server started on 127.0.0.1:1234
+2025-06-06T04:29:09.964777500 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:29:40.539879300 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T04:31:56.014673 - Server started on 127.0.0.1:1234
+2025-06-06T04:31:59.741612200 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T04:32:28.099966300 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:31:42.389264100 - Server started on 127.0.0.1:1234
+2025-06-06T06:31:43.407068100 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:32:38.297391500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:36:00.513001500 - Server started on 127.0.0.1:1234
+2025-06-06T06:36:01.274601300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:36:17.952765400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:40:08.818987900 - Server started on 127.0.0.1:1234
+2025-06-06T06:40:12.755094300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:40:39.440156700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:43:23.806891400 - Server started on 127.0.0.1:1234
+2025-06-06T06:43:24.761645300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:43:49.199934400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:44:03.881521500 - Server started on 127.0.0.1:1234
+2025-06-06T06:44:08.795400700 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:44:20.375540200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:45:56.299253600 - Server started on 127.0.0.1:1234
+2025-06-06T06:45:57.771414900 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:46:16.838464800 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:47:25.046300400 - Server started on 127.0.0.1:1234
+2025-06-06T06:47:30.072268 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:47:37.464102100 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T06:49:34.792709300 - Server started on 127.0.0.1:1234
+2025-06-06T06:49:36.151782300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T06:50:20.664915700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T07:10:46.556639100 - Server started on 127.0.0.1:1234
+2025-06-06T07:10:46.839862600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T07:11:42.725972700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T07:12:02.354466800 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T07:12:11.955044500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T07:12:29.461861900 - Server started on 127.0.0.1:1234
+2025-06-06T07:12:29.526913600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T07:13:08.821929 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:06:25.097328300 - Server started on 127.0.0.1:1234
+2025-06-06T10:06:25.173388300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:08:52.671808200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:09:13.101933300 - Server started on 127.0.0.1:1234
+2025-06-06T10:09:27.078965700 - Server started on 127.0.0.1:1234
+2025-06-06T10:10:22.688859400 - Server started on 127.0.0.1:1234
+2025-06-06T10:10:24.030917700 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:11:03.530095 - Client connected: 127.0.0.1 | Active Clients: 2
+2025-06-06T10:11:39.545521900 - Client disconnected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:11:43.918973200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:17:58.653937500 - Server started on 127.0.0.1:1234
+2025-06-06T10:18:10.301898500 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:18:40.744927400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:19:09.398543600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:19:16.790376700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:26:34.564911400 - Server started on 127.0.0.1:1234
+2025-06-06T10:26:36.146160500 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:26:40.849872500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:26:44.603835100 - Error in server: Address already in use: bind
+2025-06-06T10:26:58.219581700 - Server started on 127.0.0.1:1234
+2025-06-06T10:27:45.936244300 - Server started on 127.0.0.1:1234
+2025-06-06T10:29:01.873181800 - Server started on 127.0.0.1:1234
+2025-06-06T10:29:29.904306100 - Server started on 127.0.0.1:1234
+2025-06-06T10:30:38.637557700 - Server started on 127.0.0.1:1234
+2025-06-06T10:31:16.717614600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:32:38.354049300 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:32:42.880622100 - Server started on 127.0.0.1:1234
+2025-06-06T10:32:51.855706800 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:33:08.306691200 - Client connected: 127.0.0.1 | Active Clients: 2
+2025-06-06T10:35:20.634714700 - Client disconnected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:35:49.113192700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:38:13.926492800 - Server started on 127.0.0.1:1234
+2025-06-06T10:38:13.930497 - Waiting for client to connect...
+2025-06-06T10:38:19.771106600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:38:28.875292200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:39:37.291292100 - Server started on 127.0.0.1:1234
+2025-06-06T10:39:37.295295600 - Waiting for client to connect...
+2025-06-06T10:39:41.904934300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:39:49.642040900 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:39:59.159553300 - Server started on 127.0.0.1:1234
+2025-06-06T10:39:59.164557 - Waiting for client to connect...
+2025-06-06T10:39:59.269640200 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:40:04.914095100 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:47:27.825683500 - Server started on 127.0.0.1:1234
+2025-06-06T10:47:27.829687300 - Waiting for client to connect...
+2025-06-06T10:47:34.471930300 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:49:14.446993600 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:49:26.637616 - Server started on 127.0.0.1:1234
+2025-06-06T10:49:26.640618 - Waiting for client to connect...
+2025-06-06T10:49:26.963873500 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:49:56.002793800 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:51:00.790930600 - Error in server: Address already in use: bind
+2025-06-06T10:51:48.520603900 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:52:03.056076700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:52:11.144460800 - Server started on 127.0.0.1:1234
+2025-06-06T10:52:11.147463200 - Waiting for client to connect...
+2025-06-06T10:52:14.801347200 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:52:36.897788200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:54:09.601958700 - Server started on 127.0.0.1:1234
+2025-06-06T10:54:09.605962500 - Waiting for client to connect...
+2025-06-06T10:54:11.079125600 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:54:24.657842 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T10:54:49.945803700 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T10:55:41.998666500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T11:01:17.991865100 - Server started on 127.0.0.1:1234
+2025-06-06T11:01:17.995868300 - Waiting for client to connect...
+2025-06-06T11:01:19.038692400 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T11:01:27.824626400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T11:01:44.120488400 - Client connected: 127.0.0.1 | Active Clients: 1
+2025-06-06T11:12:43.407863 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T11:23:33.568032300 - Server started on 127.0.0.1:1234
+2025-06-06T11:23:33.571036 - Waiting for client to connect...
+2025-06-06T11:23:37.875432800 - Server stopped successfully.
+2025-06-06T11:24:16.879218 - Waiting for client to connect...
+2025-06-06T11:27:09.027093600 - Server stopped successfully.
+2025-06-06T11:27:48.772464200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T11:27:48.772464200 - Server stopped successfully.
+2025-06-06T11:38:00.608385200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:03:02.909148 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:08:21.246786700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:12:08.788218800 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:30:31.645071 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:33:19.619096 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:38:14.814451200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:42:54.573002800 - Client disconnected: 127.0.0.1 | Active Clients: 0
+[2025-06-06 12:51:35.867660400] [ERROR] Address already in use: bind
+[2025-06-06 12:51:39.090203] [INFO] Server stopped successfully.
+[2025-06-06 12:51:47.775058900] [INFO] Server started on 127.0.0.1:1234
+[2025-06-06 12:51:47.779062100] [INFO] Waiting for client to connect...
+[2025-06-06 12:52:02.059333100] [INFO] Client connected: 127.0.0.1
+[2025-06-06 12:52:02.061335700] [SESSION] Active clients: 1
+[2025-06-06 12:52:02.074346] [INFO] ClientHandler initialized for 127.0.0.1
+[2025-06-06 12:52:08.569471500] [INFO] Client [127.0.0.1]: hi
+[2025-06-06 12:52:08.570471700] [INFO] Server reply to [127.0.0.1]: Hello! How can I assist you today?
+[2025-06-06 12:52:22.447122500] [INFO] Closed connection for client.
+[2025-06-06 12:52:22.447622900] [WARNING] Client disconnected or I/O error: Socket closed
+[2025-06-06 12:52:22.448123300] [INFO] Server stopped accepting connections.
+[2025-06-06 12:52:22.448123300] [INFO] Server socket closed.
+2025-06-06T12:52:22.449124 - Client disconnected: 127.0.0.1 | Active Clients: 0
+[2025-06-06 12:52:22.449624100] [INFO] Server stopped successfully.
+2025-06-06T12:53:41.900721600 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T12:57:23.461599400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:04:06.778937200 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:10:05.782478100 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:23:10.700012 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:31:38.070478400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:41:06.650256400 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:51:34.001423500 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:52:07.471027300 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T13:59:41.872685800 - INFO: ClientHandler initialized for 127.0.0.1
+2025-06-06T13:59:55.629544 - INFO: Client [127.0.0.1]: hi
+2025-06-06T13:59:55.630544800 - INFO: Server reply to [127.0.0.1]: Hello! How can I assist you today?
+2025-06-06T14:00:04.530569600 - WARNING: Client disconnected or I/O error: Socket closed
+2025-06-06T14:00:04.531570700 - Client disconnected: 127.0.0.1 | Active Clients: 0
+2025-06-06T14:03:59.357917600 - INFO: ClientHandler initialized for 127.0.0.1
+2025-06-06T14:04:20.970977400 - INFO: Client [127.0.0.1]: hi
+2025-06-06T14:04:20.971978200 - INFO: Server reply to [127.0.0.1]: Hello! How can I assist you today?
+2025-06-06T14:04:43.688909 - Client disconnected: 127.0.0.1 | Active Clients: 0
